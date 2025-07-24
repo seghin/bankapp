@@ -1,0 +1,15 @@
+# Compilati Java
+*.class
+
+# Cartelle di build comuni
+/bin/
+
+# Temporanei
+*.log
+*.tmp
+*.swp
+*~
+
+# File di sistema (macOS, Windows)
+.DS_Store
+Thumbs.db
